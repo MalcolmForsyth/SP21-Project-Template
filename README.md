@@ -1,7 +1,7 @@
 # Group TEAM_NUMBER
 Group Name: TEAM_NAME
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/1gZjyohTsIXm8_wa_-_9VxcFfhoOuP9MIJx7jopO4VzU/edit)
 
 Team Members: STUDENTS_NETIDS
 
